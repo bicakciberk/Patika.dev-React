@@ -1,11 +1,10 @@
 
-# Patika.dev Education
-This repo containing the codes of the trainings I received on the "Patika.dev" site
-
+# Patika.dev React Edu
+This repo contains the React lessons I took on the "Patika.dev" site.
 
 ## Authors and Thanks
 
-- Thanks for Patika.dev for education.
+- Thanks Patika.dev for education.
 
   
 ## Environment Variables
